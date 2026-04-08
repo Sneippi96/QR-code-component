@@ -1,2 +1,2 @@
 # QR-code-component
-Building my first QR Code using HTMl and CSS
+Building my first QR Code using HTML and CSS
